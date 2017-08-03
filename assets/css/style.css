@@ -1,0 +1,197 @@
+body
+	{font-family:segoe ui light;
+		background-color:#16DBB5;
+	}
+
+header
+	{display:inline-block;
+	width:100%;
+	height:85px;
+	background-color:#16DBB5;
+	border-bottom:1px solid #eee;
+	position:relative;
+	top:0;
+	}
+
+h1 
+	{color:white;
+	
+	width:300px;
+	height:40px;
+	float:left;
+	text-align:left;
+	vertical-align:middle;
+	margin-left:10%;
+	padding:10px 0 25px 10px;
+	font-size:22px;
+	font-weight:bold;
+	}
+
+	.nav 
+		{
+		margin: 20px 20px 0 0;
+		font-family: 'Raleway', sans-serif;
+		border-radius:0;
+
+		}
+
+	.nav a 
+		{
+		color:white;
+		padding: 10px 30px;
+		border-bottom:2px solid white;
+		font-family: 'Raleway', sans-serif;
+		border-radius:0;
+		}
+
+	.nav li a
+		{
+		padding: 10px 30px;
+		border:2px solid #16DBB5;
+		background-color:#16DBB5;
+		font-family: 'Raleway', sans-serif;
+		border-radius:0;
+		}
+
+	.nav a:active 
+		{
+		color:white;
+		padding: 10px 30px;
+		font-family: 'Raleway', sans-serif;
+		border-radius:0;
+		}
+
+	.nav-pills > li.active > a, .nav-pills > li.active > a:focus, .nav-pills > li.active > a:hover 
+		{
+    	color: #16DBB5;
+    	background-color: white;
+   		padding: 10px 30px;
+    	border:1px solid #white;
+    	font-family: 'Raleway', sans-serif;
+    	border-radius:0;
+		}
+
+	.nav > li > a:focus, .nav > li > a:hover 
+		{
+    	text-decoration: none;
+    	background-color: transparent;
+    	padding: 10px 30px;
+    	border:2px solid white;
+    	font-family: 'Raleway', sans-serif;
+    	border-radius:0;
+    	}
+label {
+	color:white;
+}
+h2 
+	{color:#ffffff;
+	padding:0 20px 20px 0px;
+
+	font-weight:bold;
+	font-size:20px;
+	}
+
+#content {
+	margin:75px 10%;
+	
+	}
+
+#pic 
+	{max-width:250px;
+	margin: 0 20px 20px 20px;
+	width:auto;
+	}
+
+#image {
+	max-width:280px;
+		padding:0 ;
+		}
+
+.AboutMe 
+	{
+	font-size: 14px;
+	max-width:400px;
+	color:white;
+	}
+
+
+
+#bio {
+	padding:40px;
+	color:#ffffff;
+	
+}
+
+#AboutMe, #contact, #portfolio 
+	{
+	padding:20px;
+	}
+
+#portfolio 
+	{min-width: 220px;
+	padding:20px 0 0 20px;
+
+	}
+
+#connect 
+	{border: 1px solid #eee;
+	height:125px;
+	max-width:200px;
+	padding:20px;
+	margin-left:15px;
+
+
+	}
+
+h3 
+	{color:white;
+	padding-bottom:20px;
+	font-size:18px;
+	margin:0;
+	font-weight:bold;
+	}
+
+.input, #name, #email, #message 
+	{border:1px solid white;
+	padding:10px;
+	font-family:segoe ui;
+	color:#777777;
+	width: 100%;
+	background-color:transparent;
+
+	}
+
+
+
+.portimage 
+	{float:left;	
+	margin:0 20px 20px 0;
+	position:relative;
+	}
+
+.imagetitle 
+	{padding:15px 20px;
+	text-align:center;
+	color:#16DBB5;
+	font-weight:bold;
+	background-color:white;
+	position:absolute;
+	top:150px;
+	width:200px;
+	}
+
+footer 
+	{background-color: white;
+	padding:20px 0;
+		font-size:12px;
+		font-weight:bold;
+	color:#16DBB5;
+	text-align:center;
+	height:50px;
+	position:relative;
+	bottom:-200px;
+	width:100%;
+
+	
+	}
+
